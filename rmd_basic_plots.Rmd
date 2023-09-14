@@ -1,6 +1,6 @@
 ---
 title: "Basic Plots"
-author: "Jeff Goldsmith"
+author: "Zhezheng Jin"
 date: 2023-09-14
 output: github_document
 ---

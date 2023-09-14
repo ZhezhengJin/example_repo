@@ -1,6 +1,6 @@
 Basic Plots
 ================
-Jeff Goldsmith
+Zhezheng Jin
 2023-09-14
 
 The purpose of this file is to present a couple of basic plots using
